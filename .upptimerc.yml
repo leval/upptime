@@ -8,6 +8,8 @@ sites:
     url: https://recreo.gba.gob.ar
   - name: Recreo api test
     url: https://test.recreo.gba.gob.ar/graphql
+  - name: Correo MP
+    url: http://correo.mp.gba.gov.ar
     method: POST
     headers:
       - 'clientinformation: web'
